@@ -2,5 +2,5 @@
 You can start it with one simple command:
 
 ```shell
-composer require romeldev/fhir
+composer require romeldev/php-fhir-r4b
 ```
