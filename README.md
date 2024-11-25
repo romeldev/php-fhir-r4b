@@ -1,4 +1,4 @@
-# Install as Library
+# Install library
 You can start it with one simple command:
 
 ```shell
