@@ -1,6 +1,6 @@
 {
     "name": "romeldev/php-fhir-r4b",
-    "description": "Clases HL7 FHIR",
+    "description": "Clases HL7 FHIR - R4B",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -13,9 +13,16 @@
             "email": "root.romel@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4"
-    }
+        "php": "^8.1"
+    },
+    "keywords": [
+    "php",
+    "fhir",
+    "ehr",
+    "hl7",
+    "php-fhir"
+  ]
 }
