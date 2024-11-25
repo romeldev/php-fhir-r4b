@@ -1,5 +1,5 @@
 {
-    "name": "romeldev/fhir-r4b",
+    "name": "romeldev/php-fhir-r4b",
     "description": "Clases HL7 FHIR",
     "license": "MIT",
     "autoload": {
